@@ -24,16 +24,11 @@
 <!-- Social icons section -->
 <p align="center">
 	<a href="https://www.linkedin.com/in/kautilyasave/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
 	<a href = "https://medium.com/@kautilyasave"><img alt="Medium" src="https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white"/></a>
-
 	<a href = "https://elegant-moonbeam-c40240.netlify.app/"><img alt="Obsidian" src="https://img.shields.io/badge/obsidian-7952B3?style=for-the-badge&logo=obsidian&logoColor=white"/></a>
-
-	<a href ="https://twitter.com/kautilyasave"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white/></a>
-
-	<a href ="https://open.spotify.com/user/sensehack"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1aa64b?style=for-the-badge&logo=spotify&logoColor=white/></a>
-
-	<a href ="https://trakt.tv/users/sensehack"><img alt="TraktTV" src="https://img.shields.io/badge/trakt-F00000?style=for-the-badge&logo=trakt&logoColor=white/></a>
+	<a href ="https://twitter.com/kautilyasave"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+	<a href ="https://open.spotify.com/user/sensehack"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1aa64b?style=for-the-badge&logo=spotify&logoColor=white"/></a>
+	<a href ="https://trakt.tv/users/sensehack"><img alt="TraktTV" src="https://img.shields.io/badge/trakt-F00000?style=for-the-badge&logo=trakt&logoColor=white"/></a>
 </p>
 
 ---
