@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-<a href="https://sensehack.github.io/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Portfolio+%2B+Life" alt="sensehack.github.io" /></a>
+<a href="https://sensehack.github.io/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&repeat=false&width=435&lines=Portfolio+%2B+Life" alt="sensehack.github.io" /></a>
 </p>
 
 
