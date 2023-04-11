@@ -3,8 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/sensehack">
-    <h1> "Kautilya Save ~ SensehacK - KS" </h1>
-
+    <h1> Kautilya Save ~ SensehacK - KS </h1>
 	<h3> #### Always context switching </h3>
   </a>
 </p>
@@ -15,12 +14,11 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Kautilya+Save.+;Looking+for+iOS+Engineer+roles" alt="Kautilya looking for h1b sponsored jobs"/></a>
 </p>
 
-
-
 <p align="center">
-<a href="https://sensehack.github.io/" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=Portfolio+%2B+Life" alt="Typing SVG" /></a>
+<a href="https://sensehack.github.io/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Portfolio+%2B+Life" alt="sensehack.github.io" /></a>
 </p>
----
+
+
 <!-- Social icons section -->
 <p align="center">
 	<a href="https://www.linkedin.com/in/kautilyasave/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -32,6 +30,7 @@
 </p>
 
 ---
+
 
 ### ⚡️ A quick introduction
 
