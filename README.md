@@ -17,21 +17,24 @@
 
 
 
-
+<p align="center">
 <a href="https://sensehack.github.io/" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&width=435&lines=Portfolio+%2B+Life" alt="Typing SVG" /></a>
-
+</p>
 ---
 
+<p align="center">
+<a href="https://www.linkedin.com/in/kautilyasave/"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 <!-- Social icons section -->
 <p align="center">
-	[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
-	[![Medium](https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kautilyasave)
-	[![Obsidian](https://img.shields.io/badge/obsidian-7952B3?style=for-the-badge&logo=obsidian&logoColor=white)](https://elegant-moonbeam-c40240.netlify.app/)
-	[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kautilyasave)
-	[![Spotify](https://img.shields.io/badge/Spotify-1aa64b?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/sensehack)
-	[![TraktTV](https://img.shields.io/badge/trakt-F00000?style=for-the-badge&logo=trakt&logoColor=white)](https://trakt.tv/users/sensehack)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kautilyasave/)
+[![Medium](https://img.shields.io/badge/Medium-333333?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kautilyasave)
+[![Obsidian](https://img.shields.io/badge/obsidian-7952B3?style=for-the-badge&logo=obsidian&logoColor=white)](https://elegant-moonbeam-c40240.netlify.app/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kautilyasave)
+[![Spotify](https://img.shields.io/badge/Spotify-1aa64b?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/sensehack)
+[![TraktTV](https://img.shields.io/badge/trakt-F00000?style=for-the-badge&logo=trakt&logoColor=white)](https://trakt.tv/users/sensehack)
 </p>
 
 
