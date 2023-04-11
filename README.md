@@ -7,8 +7,9 @@
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://www.linkedin.com/in/kautilyasave/"  target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Kautilya+Save.+;Looking+for+iOS+Engineer+roles" alt="Kautilya looking for h1b sponsored jobs"/></a>
+  <a href="https://www.linkedin.com/in/kautilyasave/">
+  	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Looking+for+iOS+Engineer+roles" alt="Kautilya is looking for h1b sponsored jobs" />
+  </a>
 </p>
 
 <p align="center">
@@ -33,7 +34,7 @@
 
 - I’m currently working with at [TrackVia](https://trackvia.com/) with their [Mobile](https://trackvia.com/platform/mobile/) team.
 - I’m currently learning SwiftUI. 
--  I'm a multimedia fanatic, amatuer photographer, and car fanatic. I like to write articles, experiment food  and bike everyday!
+-  I'm a multimedia fanatic, amateur photographer, and car fanatic. I like to write articles, experiment food  and bike everyday!
 - Fun-Fact: I'm Team - Linux, Tabs, Vims, HTC, Firefox, Mac, AMD, LG, Manual Cars, PCMR.
 
 ```swift
