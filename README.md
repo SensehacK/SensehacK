@@ -1,10 +1,7 @@
 <p align="center">
-
-
-<p align="center">
   <a href="https://github.com/sensehack">
     <h1> Kautilya Save ~ SensehacK - KS </h1>
-	<h3> #### Always context switching </h3>
+	<h3> Always context switching </h3>
   </a>
 </p>
 
@@ -34,9 +31,9 @@
 
 ### ⚡️ A quick introduction
 
-- 🔭 I’m currently working with at [TrackVia](https://trackvia.com/) with their [Mobile](https://trackvia.com/platform/mobile/) team.
-- 🌱 I’m currently learning SwiftUI. 
-- 🤟🏻 I'm a multimedia fanatic, amatuer photographer, and car fanatic. I like to write articles, experiment food  and bike everyday!
+- I’m currently working with at [TrackVia](https://trackvia.com/) with their [Mobile](https://trackvia.com/platform/mobile/) team.
+- I’m currently learning SwiftUI. 
+-  I'm a multimedia fanatic, amatuer photographer, and car fanatic. I like to write articles, experiment food  and bike everyday!
 - Fun-Fact: I'm Team - Linux, Tabs, Vims, HTC, Firefox, Mac, AMD, LG, Manual Cars, PCMR.
 
 ```swift
