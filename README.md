@@ -51,9 +51,13 @@ switch time {
 ---
 
 <details> 
-  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+
+  <summary><h2>🛠️ My Favorite Tools</h2>
+  </summary>
+  
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
   <h3>👨‍💻 Programming</h3>
+  
   <p>
 	  <a href="https://github.com/search?q=user%3Asensehack+language%3Aswift"><img alt="Swift" src="https://img.shields.io/badge/Swift-f57513.svg?logo=swift&logoColor=white"></a>
 	  <a href="https://github.com/search?q=user%3Asensehack+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
@@ -111,6 +115,7 @@ switch time {
       <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   </p>
+
 </details>
 
 
@@ -122,7 +127,7 @@ switch time {
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
     <a href="https://github.com/sensehack/">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sensehack's streak" src="https://streak-stats.demolab.com/?user=sensehack&theme=monokai-metallian&hide_border=true"/>
+      <img title="Github Streaks for Kautilya Save" alt="sensehack's streak" src="https://streak-stats.demolab.com/?user=sensehack&theme=monokai-metallian&hide_border=true"/>
     </a>
   </p>
 
@@ -130,7 +135,12 @@ switch time {
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <picture>
+  <!-- <a href="https://github.com/sensehack/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sensehack&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/sensehack/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sensehack&layout=compact&theme=buefy&hide_border=true" /></a> |
+  | ------------- | ------------- | -->
+
+
+
+  | <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api/?username=sensehack&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"
       media="(prefers-color-scheme: dark)"
@@ -140,9 +150,7 @@ switch time {
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=sensehack&theme=default&show_icons=true" />
-  </picture>
-
-
+  </picture> |
   <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=sensehack&show_icons=true&theme=dark"
@@ -153,8 +161,8 @@ switch time {
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=sensehack&show_icons=true" />
-  </picture>
-
+  </picture> |
+  | ------------- | ------------- |
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
