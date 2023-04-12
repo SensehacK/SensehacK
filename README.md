@@ -105,7 +105,7 @@ switch time {
       <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
       <a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1.svg?logo=arch-linux&logoColor=white"></a>
       <a href="#"><img alt="1Password" src="https://img.shields.io/badge/-1Password-175DDC?logo=1Password&logoColor=white"></a>
-	    <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-1793D1.svg?logo=figma&logoColor=white"></a>
+      <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-1793D1.svg?logo=figma&logoColor=white"></a>
       <a href="#"><img alt="Sketch" src="https://img.shields.io/badge/-Sketch-175DDC?logo=Sketch&logoColor=white"></a>
       <a href="#"><img alt="Firefox" src="https://img.shields.io/badge/-Firefox-FB542B?logo=Firefox&logoColor=white"></a>
       <a href="#"><img alt="Dash" src="https://custom-icon-badges.demolab.com/badge/-dash-372923?logo=dash&logoColor=white"></a>
@@ -135,35 +135,8 @@ switch time {
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-  <!-- <a href="https://github.com/sensehack/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sensehack&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/sensehack/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sensehack&layout=compact&theme=buefy&hide_border=true" /></a> |
-  | ------------- | ------------- | -->
-
-
-
-  | <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/?username=sensehack&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=sensehack&theme=default&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=sensehack&theme=default&show_icons=true" />
-  </picture> |
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=sensehack&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=sensehack&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=sensehack&show_icons=true" />
-  </picture> |
+| <a href="https://github.com/sensehack"><img align="center" src="https://github-readme-stats.vercel.app/api/?username=sensehack&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="Kautilya Save's github stats" /></a> | <a href="https://github.com/sensehack"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sensehack&layout=compact&theme=dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a> |
   | ------------- | ------------- |
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
