@@ -33,9 +33,9 @@
 ### ⚡️ A quick introduction
 
 - I’m currently working with at [TrackVia](https://trackvia.com/) with their [Mobile](https://trackvia.com/platform/mobile/) team.
-- I’m currently learning SwiftUI. 
--  I'm a multimedia fanatic, amateur photographer, and car fanatic. I like to write articles, experiment food  and bike everyday!
-- Fun-Fact: I'm Team - Linux, Tabs, Vims, HTC, Firefox, Mac, AMD, LG, Manual Cars, PCMR.
+- I’m currently learning [SwiftUI](https://github.com/SensehacK/swift/tree/master/swiftUI) 
+- I'm a multimedia fanatic, amateur photographer, and automobile admirer. I like to write articles, experiment food  and bike everyday!
+- Fun-Fact: I'm Team - Linux, Tabs, Vims, HTC, Firefox, Mac, AMD, LG, Microsoft, Manual Cars, PCMR.
 
 ```swift
 switch time { 
