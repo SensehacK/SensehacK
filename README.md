@@ -33,9 +33,15 @@
 ### ⚡️ A quick introduction
 
 - I’m currently working with at [TrackVia](https://trackvia.com/) with their [Mobile](https://trackvia.com/platform/mobile/) team.
-- I’m currently learning [SwiftUI](https://github.com/SensehacK/swift/tree/master/swiftUI) 
 - I'm a multimedia fanatic, amateur photographer, and automobile admirer. I like to write articles, experiment food  and bike everyday!
 - Fun-Fact: I'm Team - Linux, Tabs, Vims, HTC, Firefox, Mac, AMD, LG, Microsoft, Manual Cars, PCMR.
+
+### Current
+
+- [Swift UI + MVVM](https://github.com/SensehacK/swift/tree/master/swiftUI/swift_ui_meal_db) 
+- [Swift Package Manager](https://github.com/SensehacK/swift-sense)
+- [Second 🧠 Obsidian](https://elegant-moonbeam-c40240.netlify.app/)
+- [RxSwift -> Combine Transition](https://github.com/SensehacK/swift/tree/master/combine)
 
 ```swift
 switch time { 
